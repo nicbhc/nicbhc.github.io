@@ -8,6 +8,6 @@ header-img: ""
 ---
 ##### 1.29
  🍣 弹丸滋地鸿通城店<br/>
- 🎬 星美影商城贵阳鸿通城店 密室逃生<br/>
+ 🎬 星美影商城贵阳鸿通城店 <a href="https://movie.douban.com/subject/27109679/" target="_blank">密室逃生</a><br/>
 ##### 2.8
  🏨 汉庭贵阳火车站新店<br/>

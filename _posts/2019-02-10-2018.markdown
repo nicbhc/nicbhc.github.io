@@ -23,12 +23,12 @@ header-img: ""
  🍲 可家福石锅坊<br/>
 ##### 1.13
  🍲 重庆廖记棒棒鸡金鹰店<br/>
- 🍴 L'Arôme Express芳芳简餐厅金鹰湖滨天地店<br/>
- 🎬 中影国际影城南京仙林金鹰店 太空救援<br/>
+ 🍴 L"Arôme Express芳芳简餐厅金鹰湖滨天地店<br/>
+ 🎬 中影国际影城南京仙林金鹰店 <a href="https://movie.douban.com/subject/27073291/" target="_blank">太空救援</a><br/>
 ##### 1.14
  🍲 宫廷月亮虾饼<br/>
 ##### 1.16
- 🎬 中影国际影城南京仙林金鹰店 勇敢者游戏：决战丛林<br/>
+ 🎬 中影国际影城南京仙林金鹰店 <a href="https://movie.douban.com/subject/26586766/" target="_blank">勇敢者游戏：决战丛林</a><br/>
 ##### 2.6
  🏠 林城花都<br/>
 ##### 2.12
@@ -47,14 +47,14 @@ header-img: ""
  🏨 江滨澜廷<br/>
 ##### 3.6
  🍴 304/BRUNCH RESTAURANT嘉里中心店<br/>
- 🎬 浙江奥斯卡电影大世界 三块广告牌<br/>
+ 🎬 浙江奥斯卡电影大世界 <a href="https://movie.douban.com/subject/26611804/" target="_blank">三块广告牌</a><br/>
  🏨 江滨澜廷<br/>
 ##### 3.7
  🥤 一只酸奶牛<br/>
 ##### 3.9
  🚉 南京南站<br/>
 ##### 3.11
- 🎬 卢米埃南京金鹰仙林影城 黑豹<br/>
+ 🎬 卢米埃南京金鹰仙林影城 <a href="https://movie.douban.com/subject/6390825/" target="_blank">黑豹</a><br/>
  🍜 廖记棒棒鸡金鹰店<br/>
 ##### 3.12
  🍜 品源<br/>
@@ -69,7 +69,7 @@ header-img: ""
 ##### 3.18
  🛒 世纪联华滨江西兴店<br/>
 ##### 3.23
- 🎬 杭州嘉年华国际影城 古墓丽影：崛起之战<br/>
+ 🎬 杭州嘉年华国际影城 <a href="https://movie.douban.com/subject/3445906/" target="_blank">古墓丽影：崛起之战</a><br/>
  🏠 铁岭花园<br/>
 ##### 3.24
  👣 招商银行杭州滨江支行<br/>
@@ -83,7 +83,7 @@ header-img: ""
  🍨 欢牛蛋糕屋<br/>
  🛀 艾脊中医推拿养生馆<br/>
 ##### 3.31
- 🎬 卢米埃南京金鹰仙林影城 头号玩家<br/>
+ 🎬 卢米埃南京金鹰仙林影城 <a href="https://movie.douban.com/subject/4920389/" target="_blank">头号玩家</a><br/>
  🍲 探鱼南京仙林金鹰店<br/>
  👣 王姐棋牌室<br/>
 ##### 4.1
@@ -100,7 +100,7 @@ header-img: ""
  🏠 铁岭花园<br/>
 ##### 4.21
  🍲 花津浦仙林金鹰二期店<br/>
- 🎬 中影国际影城南京仙林金鹰店 湮灭<br/>
+ 🎬 中影国际影城南京仙林金鹰店 <a href="https://movie.douban.com/subject/26384741/" target="_blank">湮灭</a><br/>
 ##### 4.22
  🍴 vagetable轻食物语环亚凯瑟琳店<br/>
 ##### 4.28
@@ -112,7 +112,7 @@ header-img: ""
  🛒 屈臣氏日月中心广场店<br/>
  👣 田子坊<br/>
  🍜 L.A PHO 上海K11艺术中心店<br/>
- 🎬 上海UME新天地国际影城 幕后玩家<br/>
+ 🎬 上海UME新天地国际影城 <a href="https://movie.douban.com/subject/26774033/" target="_blank">幕后玩家</a><br/>
  🏨 上海裕景大酒店<br/>
 ##### 4.30
  👣 豫园<br/>
@@ -133,7 +133,7 @@ header-img: ""
 ##### 5.6
  🏠 铁岭花园<br/>
 ##### 5.12
- 🎬 卢米埃南京金鹰仙林影城 复仇者联盟3：无限战争<br/>
+ 🎬 卢米埃南京金鹰仙林影城 <a href="https://movie.douban.com/subject/24773958/" target="_blank">复仇者联盟3：无限战争</a><br/>
  🍨 salud冻酸奶仙林金鹰店<br/>
  🍣 池户水产金鹰世界店<br/>
  🥖 酵墅金鹰湖滨天地店<br/>
@@ -142,7 +142,7 @@ header-img: ""
 ##### 5.20
  🍲 小龙坎老火锅滨江龙湖天街店<br/>
  🥤 弥茶鑫都店<br/>
- 🎬 杭州嘉年华国际影城 寂静之地<br/>
+ 🎬 杭州嘉年华国际影城 <a href="https://movie.douban.com/subject/26997663/" target="_blank">寂静之地</a><br/>
  🏠 铁岭花园<br/>
 ##### 5.26
  🍲 走街串巷丰富路店<br/>
@@ -164,11 +164,11 @@ header-img: ""
 ##### 6.29
  🍲 海底捞火锅太平南路店<br/>
 ##### 6.30
- 🎬 卢米埃南京金鹰仙林影城 我不是药神<br/>
+ 🎬 卢米埃南京金鹰仙林影城 <a href="https://movie.douban.com/subject/26752088/" target="_blank">我不是药神</a><br/>
  🍨 鲜芋仙仙林金鹰店<br/>
- 🎬 卢米埃南京金鹰仙林影城 侏罗纪世界2<br/>
+ 🎬 卢米埃南京金鹰仙林影城 <a href="https://movie.douban.com/subject/26416062/" target="_blank">侏罗纪世界2</a><br/>
 ##### 7.1
- 🎬 中影国际影城南京仙林金鹰店 动物世界<br/>
+ 🎬 中影国际影城南京仙林金鹰店 <a href="https://movie.douban.com/subject/26925317/" target="_blank">动物世界</a><br/>
 ##### 7.6
  🏠 铂金时代<br/>
 ##### 7.7
@@ -275,8 +275,8 @@ header-img: ""
  🥤 喜茶星光大道茶空间店<br/>
  🥩 滋味堂烤肉滨江店<br/>
  🥤 老台北奶茶星光大道店<br/>
- 🎬 中影国际影城杭州星光大道二期店 蚁人2：黄蜂女现身<br/>
- 🎬 中影国际影城杭州星光大道二期店 碟中谍6：全面瓦解<br/>
+ 🎬 中影国际影城杭州星光大道二期店 <a href="https://movie.douban.com/subject/26636712/" target="_blank">蚁人2：黄蜂女现身</a><br/>
+ 🎬 中影国际影城杭州星光大道二期店 <a href="https://movie.douban.com/subject/26336252/" target="_blank">碟中谍6：全面瓦解</a><br/>
  🏠 铂金时代<br/>
 ##### 8.31
  👣 菊花服装店<br/>
@@ -305,6 +305,6 @@ header-img: ""
  👣 南京大学仙林校区杜夏图书馆<br/>
  🍣 源氏物语万达茂店<br/>
 ##### 9.17
- 🎬 卢米埃影城紫峰购物广场 镰仓物语<br/>
- 🍔 Momo's美式贝果餐吧<br/>
+ 🎬 卢米埃影城紫峰购物广场 <a href="https://movie.douban.com/subject/26916229/" target="_blank">镰仓物语</a><br/>
+ 🍔 Momo"s美式贝果餐吧<br/>
  ☕️ Like Sunday Like Rain咖啡店<br/>

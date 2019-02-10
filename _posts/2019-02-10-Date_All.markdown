@@ -127,7 +127,7 @@ header-img: ""
  🏨 浦江精选酒店上海虹桥枢纽会展中心店<br/>
 ##### 8.19
  👣 南京大学鼓楼校区南园5舍<br/>
- None 桂皖小吃螺蛳粉<br/>
+ 🍜 桂皖小吃螺蛳粉<br/>
 ##### 7.22
  🍲 瓜串串<br/>
  ☕️ COSTA COFFEE新街口金鹰店<br/>
@@ -184,7 +184,7 @@ header-img: ""
  🏠 铁岭花园<br/>
 ##### 5.12
  🎬 卢米埃南京金鹰仙林影城 <a href="https://movie.douban.com/subject/24773958/" target="_blank">复仇者联盟3：无限战争</a><br/>
- 🍨 salud冻酸奶仙林金鹰店<br/>
+ 🍨 Salud冻酸奶仙林金鹰店<br/>
  🍣 池户水产金鹰世界店<br/>
  🥖 酵墅金鹰湖滨天地店<br/>
 ##### 5.6
@@ -199,7 +199,7 @@ header-img: ""
  🏠 铁岭花园<br/>
 ##### 4.31
  🍲 海底捞火锅北京西路店<br/>
- ☕️ manner coffee 上海商城店<br/>
+ ☕️ Manner Coffee 上海商城店<br/>
  🚉 上海火车站<br/>
 ##### 4.30
  👣 豫园<br/>
@@ -217,7 +217,7 @@ header-img: ""
 ##### 4.28
  🏨 上海裕景大酒店<br/>
 ##### 4.22
- 🍴 vagetable轻食物语环亚凯瑟琳店<br/>
+ 🍴 Vagetable轻食物语环亚凯瑟琳店<br/>
 ##### 4.21
  🍲 花津浦仙林金鹰二期店<br/>
  🎬 中影国际影城南京仙林金鹰店 <a href="https://movie.douban.com/subject/26384741/" target="_blank">湮灭</a><br/>
